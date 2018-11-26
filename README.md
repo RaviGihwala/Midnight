@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+title: Welcome to Ravi Gihwala's homepage
 
 You can use the [editor on GitHub](https://github.com/RaviGihwala/studious-engine/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
